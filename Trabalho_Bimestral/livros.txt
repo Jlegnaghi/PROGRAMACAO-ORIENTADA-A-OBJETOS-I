@@ -1,0 +1,10 @@
+1023;O Enigma das Estrelas;Lúcia Andrade;2021;Editora Aurora
+1045;Sombras do Amanhã;Carlos Mendez;2019;Nova Página
+1078;A Última Fronteira;Fernanda Costa;2023;Alvorada Books
+1102;Códigos do Vento;Rafael Tavares;2018;Editora Horizonte
+1127;Entre Linhas e Segredos;Juliana Martins;2020;Letra Viva
+1150;O Jardim das Vozes;Marcos Lima;2022;Estação Palavra
+1173;Fragmentos do Infinito;Ana Beatriz Rocha;2024;Editora Boreal
+1199;O Labirinto de Vidro;Thiago Nunes;2017;Verso & Prosa
+1221;Além do Tempo;Camila Duarte;2025;Editora Solaris
+1254;A Canção do Silêncio;Eduardo Farias;2020;Luz Editorial
